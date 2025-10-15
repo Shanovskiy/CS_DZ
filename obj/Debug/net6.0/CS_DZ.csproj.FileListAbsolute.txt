@@ -1,0 +1,15 @@
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\bin\Debug\net6.0\CS_DZ.exe
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\bin\Debug\net6.0\CS_DZ.deps.json
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\bin\Debug\net6.0\CS_DZ.runtimeconfig.json
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\bin\Debug\net6.0\CS_DZ.dll
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\bin\Debug\net6.0\ref\CS_DZ.dll
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\bin\Debug\net6.0\CS_DZ.pdb
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\obj\Debug\net6.0\CS_DZ.csproj.AssemblyReference.cache
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\obj\Debug\net6.0\CS_DZ.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\obj\Debug\net6.0\CS_DZ.AssemblyInfoInputs.cache
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\obj\Debug\net6.0\CS_DZ.AssemblyInfo.cs
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\obj\Debug\net6.0\CS_DZ.csproj.CoreCompileInputs.cache
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\obj\Debug\net6.0\CS_DZ.dll
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\obj\Debug\net6.0\ref\CS_DZ.dll
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\obj\Debug\net6.0\CS_DZ.pdb
+E:\visual project\Шаг\ООП\CS_DZ\CS_DZ\obj\Debug\net6.0\CS_DZ.genruntimeconfig.cache
