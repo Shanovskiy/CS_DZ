@@ -2,3 +2,4 @@ hello
 first
 second
 end.
+go
